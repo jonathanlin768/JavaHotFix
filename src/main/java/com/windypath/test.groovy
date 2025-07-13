@@ -1,0 +1,1 @@
+com.windypath.MyClass.numbers[0] = 123;com.windypath.MyClass.numbers[1] = 456;
